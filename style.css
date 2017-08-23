@@ -1,0 +1,57 @@
+h1 {
+    color: lightblue;
+    font-size: 90px;
+    font-family:'Lobster', cursive;
+    text-align: center;
+    border: dotted white;
+    border-width: 12px
+
+}
+
+h2 {
+    color: lightblue;
+    font-size: 80px;
+    font-family:'Lobster', cursive;
+    text-align: center;
+    
+}
+h3 {
+    color: lightblue;
+    font-size: 85px;
+    font-family:'Lobster', cursive;
+    text-align: center;
+    
+}
+h4 {
+    color: lightblue;
+    font-size: 80px;
+    font-family:'Lobster', cursive;
+    text-align: center;
+}
+p { 
+    font-size:15px;
+    font-weight: bold;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+}
+p2 {
+    font-size:15px;
+    font-weight: normal;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+}
+ul {
+    font-size:15px;
+    font-weight: normal;
+    font-family: 'Dosis', sans-serif;
+    
+}
+
+table {
+    width: 110%;
+}
+
+td { 
+    border: solid white;
+    border-width: 150px;
+    width: 110%;
